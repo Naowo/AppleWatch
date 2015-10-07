@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import <HealthKit/HealthKit.h>
 
 @interface AppDelegate ()
 
@@ -16,10 +17,13 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
     NSLog(@"GIT");
     NSLog(@"Soin");
     NSLog(@"Nour");
     NSLog(@"Nour2");
+    
+    
     return YES;
 }
 
