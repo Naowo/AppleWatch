@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"GIT");
     NSLog(@"Soin");
+    NSLog(@"Nour");
     return YES;
 }
 
