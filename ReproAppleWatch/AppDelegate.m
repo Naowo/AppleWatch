@@ -19,6 +19,7 @@
     NSLog(@"GIT");
     NSLog(@"Soin");
     NSLog(@"Nour");
+    NSLog(@"Nour2");
     return YES;
 }
 
